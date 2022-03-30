@@ -1,0 +1,6 @@
+E:\Downloads\Prog4\Authorization\bin\Debug\Authorization.dll
+E:\Downloads\Prog4\Authorization\bin\Debug\Authorization.pdb
+E:\Downloads\Prog4\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+E:\Downloads\Prog4\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+E:\Downloads\Prog4\Authorization\obj\Debug\Authorization.dll
+E:\Downloads\Prog4\Authorization\obj\Debug\Authorization.pdb
